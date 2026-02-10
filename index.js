@@ -79,4 +79,5 @@ if (body.AI) {
   }
 });
 
-app.listen(3000, () => console.log("Server running on 3000"));
+export default app;
+
